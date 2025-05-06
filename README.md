@@ -13,6 +13,11 @@ Power BI:visuzlization of insights using logistic model
 Excel: Initial raw data source
 
 Data Source:IBM synthetic dataset
+Data Cleaning: Handled missing values (TotalCharges) and encoded categorical variables.
+
+Machine Learning: Trained a logistic regression model (R) to predict churn probability.
+
+Visualization: Created  KPIs (e.g., churn rate = AVERAGE(Churn)) and R-powered feature importance plots.
 
 
 
